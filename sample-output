@@ -1,0 +1,12 @@
+🌟 Welcome to Habit Builder with OOP 🌟
+👤 Enter your name: Pooja
+
+🔹 Type a habit to log, 'history' to view log, or 'exit' to quit: exercise
+🕒 [2025-06-09 13:10:45] Logging your habit...
+Pooja, Awesome! Keep your body strong and your mind sharper 🏋️‍♀️🧠
+✅ Habit logged successfully!
+
+🔹 Type a habit to log, 'history' to view log, or 'exit' to quit: history
+
+📜 Habit History for Pooja:
+🔹 Exercise at 2025-06-09 13:10:45
